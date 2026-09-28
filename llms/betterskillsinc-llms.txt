@@ -1,0 +1,292 @@
+# Better Skills
+
+> Formação ITIL certificada em Portugal. João Rodrigues é o primeiro e único ITIL 4 Master em Portugal e um dos primeiros a nível mundial. Oferecemos cursos ITIL 4 e ITIL v5 Foundation, 34 práticas ITSM documentadas com processos end-to-end, 290+ templates gratuitos (.docx e .xlsx), e recursos avançados de gestão de serviços de TI em português europeu.
+
+## Sobre
+
+- [Homepage](https://better-skills.com/): formação ITIL e ITSM certificada em Portugal
+- [Sobre nós](https://better-skills.com/sobre/): missão, valores e credenciais da Better Skills
+- [João Rodrigues](https://better-skills.com/sobre/joao-rodrigues/): ITIL 4 Master, fundador e formador principal
+- [Missão, visão e valores](https://better-skills.com/sobre/missao-visao-valores/): princípios que guiam a empresa
+- [Contacto](https://better-skills.com/contacto/): contactar a Better Skills
+
+## Cursos ITIL 4
+
+- [ITIL 4 Foundation](https://better-skills.com/itil-4/foundation/): curso oficial de certificação ITIL 4 Foundation em Portugal
+- [ITIL 4 Managing Professional](https://better-skills.com/itil-4/managing-professional/): percurso avançado MP para gestores de TI
+- [ITIL 4 Strategic Leader](https://better-skills.com/itil-4/strategic-leader/): percurso SL para líderes estratégicos de TI
+- [ITIL 4 Practice Manager](https://better-skills.com/itil-4/practice-manager/): percurso PM focado nas práticas ITIL
+- [ITIL 4 CDS — Create, Deliver and Support](https://better-skills.com/itil-4/cds/): módulo do percurso Managing Professional
+- [ITIL 4 DPI — Direct, Plan and Improve](https://better-skills.com/itil-4/dpi/): módulo comum a MP e SL
+- [ITIL 4 DSV — Drive Stakeholder Value](https://better-skills.com/itil-4/dsv/): módulo do percurso Managing Professional
+- [ITIL 4 HVIT — High Velocity IT](https://better-skills.com/itil-4/hvit/): módulo de alta velocidade e transformação digital
+- [ITIL 4 CAI — Collaborate, Assure and Improve](https://better-skills.com/itil-4/cai/): módulo do percurso Practice Manager
+- [ITIL 4 MSF — Monitor, Support and Fulfil](https://better-skills.com/itil-4/msf/): módulo do percurso Practice Manager
+- [ITIL 4 DITS — Digital and IT Strategy](https://better-skills.com/itil-4/dits/): módulo do percurso Strategic Leader
+- [ITIL 4 PIC — Plan, Implement and Control](https://better-skills.com/itil-4/pic/): módulo do percurso Practice Manager
+- [Esquema de certificação ITIL 4](https://better-skills.com/itil-4/esquema-certificacao/): mapa completo de certificações ITIL 4
+- [Visão geral ITIL 4](https://better-skills.com/itil-4/): introdução ao framework ITIL 4
+
+## Cursos ITIL v5
+
+- [ITIL v5 Foundation](https://better-skills.com/itil-5/foundation/): curso oficial ITIL v5 Foundation — a versão mais recente
+- [ITIL v5 Bridge Foundation](https://better-skills.com/itil-5/upgrade/): upgrade de ITIL 4 para ITIL v5
+- [ITIL v5 Managing Professional](https://better-skills.com/itil-5/managing-professional/): percurso MP em ITIL v5
+- [ITIL v5 Strategic Leader](https://better-skills.com/itil-5/strategic-leader/): percurso SL em ITIL v5
+- [ITIL v5 Practice Manager](https://better-skills.com/itil-5/practice-manager/): percurso PM em ITIL v5
+- [ITIL v5 Strategy](https://better-skills.com/itil-5/strategy/): módulo Strategy do ITIL v5
+- [ITIL v5 Product](https://better-skills.com/itil-5/product/): módulo Product do ITIL v5
+- [ITIL v5 Service](https://better-skills.com/itil-5/service/): módulo Service do ITIL v5
+- [ITIL v5 Experience](https://better-skills.com/itil-5/experience/): módulo Experience do ITIL v5
+- [ITIL v5 Transformation](https://better-skills.com/itil-5/transformation/): módulo Transformation do ITIL v5
+- [ITIL v5 Master](https://better-skills.com/itil-5/master/): designação máxima da certificação ITIL v5
+- [Esquema de certificação ITIL v5](https://better-skills.com/itil-5/esquema-certificacao/): mapa completo de certificações ITIL v5
+- [Visão geral ITIL v5](https://better-skills.com/itil-5/): introdução ao framework ITIL v5
+
+## Outros cursos e certificações
+
+- [ISO 20000 Foundation](https://better-skills.com/iso-20000/foundation/): certificação ISO/IEC 20000 Foundation
+- [ISO 20000 Practitioner](https://better-skills.com/iso-20000/practitioner/): certificação ISO/IEC 20000 Practitioner
+- [ISO 20000 Auditor](https://better-skills.com/iso-20000/auditor/): certificação ISO/IEC 20000 Auditor
+- [COBIT 2019](https://better-skills.com/cobit-2019/): formação em governance de TI com COBIT 2019
+- [ISO 27001](https://better-skills.com/iso-27001/): formação em segurança da informação com ISO 27001
+- [Formação ITIL](https://better-skills.com/formacao-itil/): guia de todas as opções de formação ITIL em Portugal
+- [Certificação ITIL](https://better-skills.com/certificacao-itil/): como obter a certificação ITIL em Portugal
+
+## Processos ITSM (34 processos documentados)
+
+- [Hub de processos ITSM](https://better-skills.com/templates/processos/): índice dos 34 processos com templates
+- [Gestão de incidentes](https://better-skills.com/templates/processos/gestao-incidentes/): processo end-to-end de gestão de incidentes
+- [Gestão de problemas](https://better-skills.com/templates/processos/gestao-problemas/): processo end-to-end de gestão de problemas
+- [Change enablement](https://better-skills.com/templates/processos/gestao-mudancas/): processo end-to-end de habilitação de mudanças
+- [Service desk](https://better-skills.com/templates/processos/service-desk/): processo end-to-end do service desk
+- [Gestão de pedidos de serviço](https://better-skills.com/templates/processos/gestao-pedidos-servico/): processo end-to-end de gestão de pedidos
+- [Gestão de activos de TI (ITAM)](https://better-skills.com/templates/processos/gestao-activos-ti/): processo end-to-end de gestão de activos
+- [Gestão de configuração (CMDB)](https://better-skills.com/templates/processos/gestao-configuracao/): processo end-to-end de gestão de configuração
+- [Gestão do conhecimento](https://better-skills.com/templates/processos/gestao-conhecimento/): processo end-to-end de gestão do conhecimento
+- [Release management](https://better-skills.com/templates/processos/release-management/): processo end-to-end de gestão de releases
+- [Deployment management](https://better-skills.com/templates/processos/deployment-management/): processo end-to-end de deployment
+- [Monitorização e gestão de eventos](https://better-skills.com/templates/processos/monitorizacao-eventos/): processo end-to-end de monitorização
+- [Gestão de níveis de serviço](https://better-skills.com/templates/processos/gestao-niveis-servico/): processo end-to-end de SLM
+- [Gestão do catálogo de serviços](https://better-skills.com/templates/processos/catalogo-servicos/): processo end-to-end de catálogo de serviços
+- [Gestão de disponibilidade](https://better-skills.com/templates/processos/gestao-disponibilidade/): processo end-to-end de gestão de disponibilidade
+- [Gestão de capacidade e desempenho](https://better-skills.com/templates/processos/gestao-capacidade/): processo end-to-end de capacidade
+- [Gestão de continuidade de serviço](https://better-skills.com/templates/processos/continuidade-servico/): processo end-to-end de continuidade
+- [Gestão de segurança da informação](https://better-skills.com/templates/processos/seguranca-informacao/): processo end-to-end de segurança
+- [Gestão de fornecedores](https://better-skills.com/templates/processos/gestao-fornecedores/): processo end-to-end de supplier management
+- [Gestão de relacionamento](https://better-skills.com/templates/processos/gestao-relacionamento/): processo end-to-end de relationship management
+- [Melhoria contínua](https://better-skills.com/templates/processos/melhoria-continua/): processo end-to-end de melhoria contínua
+- [Gestão de riscos](https://better-skills.com/templates/processos/gestao-riscos/): processo end-to-end de gestão de riscos
+- [Gestão financeira de serviços](https://better-skills.com/templates/processos/gestao-financeira/): processo end-to-end de gestão financeira
+- [Gestão de portfolio](https://better-skills.com/templates/processos/gestao-portfolio/): processo end-to-end de gestão de portfolio
+- [Gestão de arquitectura](https://better-skills.com/templates/processos/gestao-arquitectura/): processo end-to-end de arquitectura de TI
+- [Gestão de estratégia](https://better-skills.com/templates/processos/gestao-estrategia/): processo end-to-end de gestão de estratégia
+- [Gestão da mudança organizacional](https://better-skills.com/templates/processos/gestao-mudanca-organizacional/): processo end-to-end de OCM
+- [Design de serviços](https://better-skills.com/templates/processos/design-servicos/): processo end-to-end de design de serviços
+- [Gestão de projectos de TI](https://better-skills.com/templates/processos/gestao-projectos/): processo end-to-end de gestão de projectos
+- [Análise de negócio](https://better-skills.com/templates/processos/analise-negocio/): processo end-to-end de análise de negócio
+- [Gestão de pessoas e talento](https://better-skills.com/templates/processos/gestao-pessoas-talento/): processo end-to-end de HRM em TI
+- [Gestão de desenvolvimento de software](https://better-skills.com/templates/processos/gestao-desenvolvimento-software/): processo end-to-end de desenvolvimento
+- [Gestão de infra-estrutura e plataformas](https://better-skills.com/templates/processos/gestao-infraestrutura/): processo end-to-end de infra-estrutura
+- [Medição e reporting](https://better-skills.com/templates/processos/medicao-reporting/): processo end-to-end de medição e reporting
+- [Validação e testes](https://better-skills.com/templates/processos/validacao-testes/): processo end-to-end de validação e testes
+
+## Ferramentas interactivas
+
+- [Assistente de certificação](https://better-skills.com/assistente-certificacao/): wizard de 6 passos que recomenda a certificação ideal (ITIL 4, ITIL v5, COBIT 2019, ISO 27001, ISO 20000) com base no perfil profissional do utilizador
+
+## Templates premium (nível consultoria)
+
+- [20 templates ITSM premium](https://better-skills.com/templates/premium/): colecção de 20 templates de nível consultoria, pré-preenchidas com dados realistas, alinhadas com ITIL 4 e ITIL v5
+- [Catálogo de serviços premium](https://better-skills.com/templates/catalogo-servicos.xlsx): 9 folhas, 20 serviços pré-preenchidos, 3 SLA Tiers, dashboard automático
+- [Matriz de prioridade de incidentes](https://better-skills.com/templates/matriz-prioridade-incidentes.xlsx): matriz 5x5 com 20 cenários reais e SLAs por prioridade
+- [Matriz RACI 34 práticas ITIL](https://better-skills.com/templates/matriz-raci.xlsx): 34 práticas mapeadas com validação automática e variante RASCI
+- [Modelo SLA completo](https://better-skills.com/templates/modelo-sla.docx): 25-30 páginas com service credits progressivos e 4 anexos
+- [KEDB - Known Error Database](https://better-skills.com/templates/kedb-known-error-database.xlsx): 69 known errors reais de sector bancário
+- [CMDB - Service Configuration](https://better-skills.com/templates/cmdb-service-configuration.xlsx): 80 CIs e 43 relações de banco com dashboard automático
+- [Risk Register IT](https://better-skills.com/templates/risk-register-it.xlsx): 35 riscos reais, alinhado com DORA, NIS2, RGPD e EBA ICT Risk Guidelines
+- [Major Incident Report](https://better-skills.com/templates/major-incident-report.docx): relatório PIR com 5 Whys, Ishikawa e 8 acções SMART
+- [Problem Record](https://better-skills.com/templates/problem-record.docx): análise Pareto, RCA completa e plano de solução em 3 fases
+- [RFC - Request for Change](https://better-skills.com/templates/rfc-request-for-change.docx): RFC completo com CAB minutes, rollback testado e Change Enablement
+- [Service Desk Operations Playbook](https://better-skills.com/templates/service-desk-playbook.docx): 33 scripts operacionais, quality framework com scoring sheet, onboarding de 30 dias e matriz de escalação
+- [CAB Complete Pack - Charter (Word)](https://better-skills.com/templates/cab-complete-pack.docx): charter formal, minutes templates, exemplo CAB 15/04/2026 com 4 RFCs e 15 Standard Change Models pré-aprovados
+- [CAB Complete Pack - Tracker (Excel)](https://better-skills.com/templates/cab-tracker-e-calendario.xlsx): tracker com 30 RFCs pré-preenchidas e calendário CAB 2026 com change freezes
+- [Service Request Catalogue](https://better-skills.com/templates/service-request-catalogue.xlsx): 55 service requests pré-preenchidos em 9 categorias com SLA target, aprovações e workflow steps
+- [Continual Improvement Register](https://better-skills.com/templates/continual-improvement-register.xlsx): 35 improvements realistas com MoSCoW, ROI tracking e modelo CSI de 7 passos ITIL 4
+- [Knowledge Management Framework](https://better-skills.com/templates/knowledge-management-framework.docx): framework KCS v6 com 6 templates de artigos, lifecycle completo, 12 KPIs e roadmap 12 meses
+- [ITAM Framework (Word)](https://better-skills.com/templates/itam-framework.docx): framework de gestão de activos IT com 9-fase lifecycle, HAM, SAM, cloud assets e FinOps
+- [ITAM Register (Excel)](https://better-skills.com/templates/itam-register.xlsx): register com 50 HW assets, 40 licenças software, 20 cloud resources e 25 contratos pré-preenchidos
+- [SLM Framework (Word)](https://better-skills.com/templates/slm-framework.docx): framework global de Service Level Management com 7-fase lifecycle, OLA, UC e roadmap XLA
+- [SLM Register (Excel)](https://better-skills.com/templates/slm-register.xlsx): register com 30 SLAs activos, 25 OLAs, 15 UCs e 25 breaches 2026 com root causes
+- [Supplier Management Framework (Word)](https://better-skills.com/templates/supplier-management-framework.docx): framework ISO 27036 com lifecycle 8 fases, Kraljic matrix, scorecards e ESG integrado
+- [Supplier Register (Excel)](https://better-skills.com/templates/supplier-register.xlsx): register com 25 fornecedores categorizados, scorecards preenchidos e 10 QBRs 2026
+- [Release Management Framework (Word)](https://better-skills.com/templates/release-management-framework.docx): framework ITIL 4 + DevOps/SRE com 5 tipos de release e 4 deployment strategies
+- [Release Calendar (Excel)](https://better-skills.com/templates/release-calendar.xlsx): calendar com 40 releases pré-planeadas 2026 e DORA metrics (deployment frequency, MTTR, lead time)
+- [Monitoring Framework (Word)](https://better-skills.com/templates/monitoring-framework.docx): framework ITIL 4 + Google SRE com observability (metrics, logs, traces), SLI/SLO e AIOps roadmap
+- [Monitoring Alerts Catalogue (Excel)](https://better-skills.com/templates/monitoring-alerts-catalogue.xlsx): catálogo com 50 alertas pré-preenchidos, 25 SLOs por serviço e 20 dashboards
+
+## Pack ITIL v5 Product & Service Lifecycle (PT)
+
+- [Landing pack ITIL v5 lifecycle](https://better-skills.com/templates/packs/itil-v5-lifecycle/): 6 templates integradas alinhadas com os 5 livros oficiais ITIL v5 (2026), com contexto ICR
+- [Master Framework ITIL v5](https://better-skills.com/templates/packs/itil-v5-lifecycle/master-framework.docx): framework mestre integrando os 5 livros ITIL v5, 16 secções, PRODUCT Rules, ICR
+- [8 Activity Playbooks ITIL v5](https://better-skills.com/templates/packs/itil-v5-lifecycle/activity-playbooks.xlsx): playbook operacional por actividade do lifecycle (Discover, Design, Acquire, Build, Transition, Operate, Deliver, Support)
+- [PRODUCT Rules Assessment Tool](https://better-skills.com/templates/packs/itil-v5-lifecycle/product-rules-assessment.xlsx): diagnóstico das 7 regras PRODUCT com 49 perguntas, radar chart e plano de acção
+- [Value Streams Workbook ITIL v5](https://better-skills.com/templates/packs/itil-v5-lifecycle/value-streams-workbook.xlsx): workbook de value streams (8 ICR), Service Journey Model com todos os stages
+- [Operating Model Canvas ITIL v5](https://better-skills.com/templates/packs/itil-v5-lifecycle/operating-model-canvas.xlsx): 4 Dimensions assessment (40 perguntas), operating model canvas ICR, maturity model 5 níveis
+- [Transformation Playbook ITIL v5](https://better-skills.com/templates/packs/itil-v5-lifecycle/transformation-playbook.docx): playbook de transformação com ITIL Transformation Model 4 layers, 14 methods, ICR case
+
+## ITIL v5 Pack (English version)
+
+- [ITIL v5 Lifecycle Pack landing (EN)](https://better-skills.com/templates/packs/itil-v5-lifecycle/en/): 6 premium templates aligned with 5 official ITIL v5 books (2026), ICR context
+- [Master Framework ITIL v5 (EN)](https://better-skills.com/templates/packs/itil-v5-lifecycle/en/master-framework.docx): master framework integrating all 5 ITIL v5 books, 16 sections, PRODUCT Rules, ICR
+- [8 Activity Playbooks ITIL v5 (EN)](https://better-skills.com/templates/packs/itil-v5-lifecycle/en/activity-playbooks.xlsx): operational playbook per lifecycle activity (Discover, Design, Acquire, Build, Transition, Operate, Deliver, Support)
+- [PRODUCT Rules Assessment Tool (EN)](https://better-skills.com/templates/packs/itil-v5-lifecycle/en/product-rules-assessment.xlsx): 7 PRODUCT rules diagnostic with 49 questions, radar chart and action plan
+- [Value Streams Workbook ITIL v5 (EN)](https://better-skills.com/templates/packs/itil-v5-lifecycle/en/value-streams-workbook.xlsx): value streams workbook (8 ICR examples), Service Journey Model with all stages
+- [Operating Model Canvas ITIL v5 (EN)](https://better-skills.com/templates/packs/itil-v5-lifecycle/en/operating-model-canvas.xlsx): 4 Dimensions assessment (40 questions), ICR operating model canvas, 5-level maturity model
+- [Transformation Playbook ITIL v5 (EN)](https://better-skills.com/templates/packs/itil-v5-lifecycle/en/transformation-playbook.docx): transformation playbook with ITIL Transformation Model 4 layers, 14 methods, ICR case study
+
+## Pack compliance regulamentar (NIS2 · DORA · RGPD · ISO 27001)
+
+- [Landing pack compliance](https://better-skills.com/templates/packs/compliance/): 8 templates integradas de nível consultoria alinhadas com NIS2, DORA, RGPD e ISO 27001:2022
+- [NIS2 Incident Reporting Playbook](https://better-skills.com/templates/packs/compliance/nis2-incident-reporting-playbook.docx): playbook de reporte 24h/72h/1mês
+- [DORA ICT Risk Management Framework](https://better-skills.com/templates/packs/compliance/dora-ict-risk-management-framework.docx): framework arts. 5-16 DORA
+- [DORA Third-Party ICT Risk Assessment](https://better-skills.com/templates/packs/compliance/dora-third-party-ict-risk-assessment.docx): gestão de fornecedores ICT arts. 28-44
+- [DORA Operational Resilience Testing Plan](https://better-skills.com/templates/packs/compliance/dora-operational-resilience-testing-plan.docx): plano de testing arts. 24-27 + TLPT TIBER-EU
+- [RGPD DPIA](https://better-skills.com/templates/packs/compliance/rgpd-data-protection-impact-assessment.docx): Data Protection Impact Assessment
+- [RGPD RoPA](https://better-skills.com/templates/packs/compliance/rgpd-records-of-processing-activities.xlsx): registo de actividades de processamento
+- [Cross-regulation mapping](https://better-skills.com/templates/packs/compliance/cross-regulation-mapping.xlsx): matriz 60 requisitos x 4 frameworks
+- [Checklist auditoria regulamentar anual](https://better-skills.com/templates/packs/compliance/checklist-auditoria-regulamentar-anual.xlsx): 150 items de auditoria
+
+## Templates e ferramentas (290+)
+
+- [Biblioteca de templates ITSM](https://better-skills.com/templates/): 290+ templates gratuitos em .docx e .xlsx
+- [Registo de incidentes](https://better-skills.com/templates/registo-incidentes.docx): template Word para registo de incidentes
+- [Registo de problemas](https://better-skills.com/templates/registo-problemas.docx): template Word para registo de problemas
+- [Pedido de mudança normal](https://better-skills.com/templates/pedido-mudanca-normal.docx): template RFC para mudanças normais
+- [Modelo SLA](https://better-skills.com/templates/modelo-sla.docx): template completo de Service Level Agreement
+- [Plano de continuidade](https://better-skills.com/templates/plano-continuidade.docx): template de plano de continuidade de serviço
+- [Plano de disaster recovery](https://better-skills.com/templates/plano-disaster-recovery.docx): template de plano DR
+- [Business case de serviço](https://better-skills.com/templates/business-case-servico.docx): template de business case para TI
+- [Política de segurança da informação](https://better-skills.com/templates/politica-seguranca-informacao.docx): template de política ISM
+- [Plano estratégico de TI](https://better-skills.com/templates/plano-estrategico-ti.docx): template de plano estratégico
+- [Avaliação de maturidade ITIL](https://better-skills.com/templates/avaliacao-maturidade-itil.xlsx): ferramenta de avaliação em Excel
+- [Dashboard de KPIs](https://better-skills.com/templates/dashboard-kpis.xlsx): dashboard de indicadores ITSM em Excel
+- [Catálogo de serviços](https://better-skills.com/templates/catalogo-servicos.xlsx): template Excel de catálogo de serviços
+- [Matriz RACI](https://better-skills.com/templates/matriz-raci.xlsx): template Excel de matriz de responsabilidades
+- [Avaliação de riscos de TI](https://better-skills.com/templates/avaliacao-riscos-ti.xlsx): ferramenta de avaliação de riscos
+- [Relatório de cumprimento de SLA](https://better-skills.com/templates/relatorio-cumprimento-sla.xlsx): relatório de desempenho SLA
+- [Roadmap de TI](https://better-skills.com/templates/roadmap-ti.xlsx): template de roadmap estratégico de TI
+- [Calculadora ROI de automação](https://better-skills.com/templates/calculadora-roi-automacao.xlsx): cálculo de ROI de iniciativas de automação
+- [Kits temáticos de templates](https://better-skills.com/templates/kits/): kits pré-agrupados por tema (incidentes, SLA, change, etc.)
+
+## Artigos educativos
+
+- [O que é ITIL?](https://better-skills.com/o-que-e-itil/): guia completo sobre o framework ITIL
+- [Framework ITIL](https://better-skills.com/framework-itil/): as 4 dimensões e o sistema de valor de serviço
+- [ITIL 4 vs ITIL v5](https://better-skills.com/itil-4-vs-itil-5/): comparação detalhada entre as duas versões
+- [ITIL 4 vs ITIL 3](https://better-skills.com/itil-4-vs-itil-3/): o que mudou da versão 3 para a 4
+- [Princípios ITIL](https://better-skills.com/principios-itil/): os 7 princípios orientadores ITIL explicados
+- [34 Práticas ITIL](https://better-skills.com/praticas-itil/): visão geral das 34 práticas ITIL 4 e v5
+- [Sistema de valor de serviço ITIL 4](https://better-skills.com/sistema-valor-servico/): explicação do SVS e cadeia de valor
+- [Cadeia de valor de serviço](https://better-skills.com/cadeia-valor-servico/): as 6 actividades da service value chain
+- [ITSM — Gestão de serviços de TI](https://better-skills.com/itsm/): o que é ITSM e como funciona
+- [ITSM vs ITIL](https://better-skills.com/itsm-vs-itil/): qual a diferença entre ITSM e ITIL
+- [Gestão de incidentes ITIL](https://better-skills.com/gestao-incidentes/): guia prático de incident management
+- [Gestão de problemas ITIL](https://better-skills.com/gestao-problemas/): guia prático de problem management
+- [Gestão de mudanças ITIL](https://better-skills.com/gestao-mudancas/): guia de change management
+- [Change enablement](https://better-skills.com/change-enablement/): habilitação de mudanças ITIL 4
+- [Service desk ITIL](https://better-skills.com/service-desk/): guia completo de service desk
+- [Help desk vs service desk](https://better-skills.com/help-desk-vs-service-desk/): diferenças e quando usar cada um
+- [Melhoria contínua ITIL 4](https://better-skills.com/melhoria-continua/): modelo 7 passos de melhoria contínua
+- [KPIs e métricas ITIL](https://better-skills.com/kpi-itil/): indicadores essenciais de desempenho ITSM
+- [Análise de causa raiz](https://better-skills.com/analise-causa-raiz/): métodos e exemplos práticos (RCA)
+- [CMDB ITIL](https://better-skills.com/cmdb/): base de dados de configuração explicada
+- [Catálogo de serviços](https://better-skills.com/catalogo-servicos/): guia prático de catálogo de serviços
+- [SLA — Acordo de nível de serviço](https://better-skills.com/sla/): o que é um SLA e como definir
+- [OLA (Operational Level Agreement)](https://better-skills.com/ola-itil/): acordos operacionais internos
+- [Portfólio de serviços ITIL](https://better-skills.com/portfolio-servicos/): gestão de portfolio de serviços de TI
+- [Governança de TI](https://better-skills.com/governanca-ti/): COBIT, ITIL e ISO 38500
+- [ITIL vs COBIT](https://better-skills.com/itil-vs-cobit/): comparação de frameworks
+- [DevOps vs ITIL](https://better-skills.com/devops-vs-itil/): diferenças e como trabalham juntos
+- [ITIL e Agile](https://better-skills.com/itil-agile/): como ITIL e Agile se complementam
+- [Supplier management ITIL](https://better-skills.com/supplier-management/): gestão de fornecedores com ITIL
+- [Modelo RACI](https://better-skills.com/modelo-raci/): o que é e como aplicar em ITSM
+- [Glossário ITIL](https://better-skills.com/glossario-itil/): termos e definições do framework ITIL
+- [Salário ITIL em Portugal](https://better-skills.com/salario-itil/): remuneração de profissionais certificados ITIL em 2026
+- [ROI do ITIL](https://better-skills.com/roi-itil/): como medir o retorno do investimento em ITIL
+- [Auditoria ITIL](https://better-skills.com/auditoria-itil/): como avaliar a maturidade das práticas ITSM
+- [Exame ITIL Foundation](https://better-skills.com/exame-itil/): dicas de preparação e estrutura do exame
+
+## Recursos avançados
+
+- [RGPD para profissionais de TI](https://better-skills.com/rgpd-ti/): guia prático de conformidade RGPD em TI
+- [Gestão de pessoas e competências em TI](https://better-skills.com/gestao-pessoas-ti/): guia para IT managers
+- [Gestão de projectos de TI](https://better-skills.com/gestao-projectos-ti/): guia para gestores de projectos em TI
+- [Gestão de riscos de TI](https://better-skills.com/gestao-riscos-ti/): guia prático com matriz de riscos
+- [Política de segurança da informação](https://better-skills.com/politica-seguranca/): guia com ISO 27001 e ITIL
+- [Resposta a incidentes de segurança](https://better-skills.com/resposta-incidentes-seguranca/): plano e procedimento de resposta
+- [Gestão de acessos em TI](https://better-skills.com/gestao-acessos/): guia com ITIL e ISO 27001
+- [Onboarding e offboarding TI](https://better-skills.com/onboarding-offboarding-ti/): checklist completa para TI
+- [Procedimentos operacionais em TI](https://better-skills.com/procedimentos-operacionais-ti/): como criar SOPs eficazes
+- [Relatórios de TI](https://better-skills.com/relatorios-ti/): o que reportar à gestão e como estruturar
+- [Business case e TCO para TI](https://better-skills.com/business-case-ti/): como construir um business case sólido
+- [ITIL para PMEs](https://better-skills.com/itil-pmes/): como aplicar ITIL em pequenas e médias empresas
+- [ITIL e cloud computing](https://better-skills.com/itil-cloud/): gestão de serviços na nuvem com ITIL
+- [Gestão de ativos de TI (ITAM)](https://better-skills.com/gestao-ativos-ti/): guia de IT asset management
+- [Gestão de capacidade ITIL](https://better-skills.com/gestao-capacidade/): capacity and performance management
+- [Gestão de disponibilidade ITIL](https://better-skills.com/gestao-disponibilidade/): availability management
+- [Gestão de continuidade TI](https://better-skills.com/gestao-continuidade/): ITSCM e planos de continuidade
+- [Gestão de eventos ITIL](https://better-skills.com/gestao-eventos/): event management e monitorização
+- [Gestão de configuração ITIL](https://better-skills.com/gestao-configuracao/): configuration management com CMDB
+- [Gestão do conhecimento ITIL](https://better-skills.com/gestao-conhecimento/): knowledge management em TI
+- [Gestão de releases ITIL](https://better-skills.com/gestao-releases/): release management end-to-end
+- [Gestão de pedidos de serviço](https://better-skills.com/service-request-management/): service request management
+- [Matriz de prioridade de incidentes](https://better-skills.com/matriz-prioridade-incidentes/): como definir prioridades P1/P2/P3/P4
+
+## Blog
+
+- [Como preparar o exame ITIL v5](https://better-skills.com/blog/como-preparar-exame-itil-v5/): guia de estudo e estratégia de preparação
+- [IA na gestão de serviços ITIL](https://better-skills.com/blog/ia-gestao-servicos-itil/): impacto da inteligência artificial em ITSM
+- [ITIL e DevOps](https://better-skills.com/blog/itil-e-devops/): como integrar ITIL e DevOps na prática
+- [ITIL e transformação digital](https://better-skills.com/blog/itil-transformacao-digital/): o papel do ITIL na transformação digital
+- [Modelo 6Cs de IA no ITIL v5](https://better-skills.com/blog/modelo-6cs-ia-itilv5/): framework de IA aplicado ao ITIL v5
+- [AI Act e ITIL: como cumprir o regulamento europeu com as práticas que já tem](https://better-skills.com/blog/ai-act-itil/) — O AI Act entra em vigor para sistemas high-risk a 2 Agosto 2026. Mapa prático das exigências do regulamento à práticas ITIL existentes. Roadmap de 90 dias.
+- [NIS2 e ITIL](https://better-skills.com/blog/nis2-itil/): mapa NIS2 → práticas ITIL, três lacunas comuns e roadmap de 90 dias para conformidade
+
+## Conceitos ITIL v5 explicados (interactivo, bilingue PT/EN)
+
+- [Hub de conceitos ITIL v5](https://better-skills.com/conceitos/): colecção de explainers interactivos baseados nos livros oficiais PeopleCert
+- [Produtos digitais e serviços digitais](https://better-skills.com/conceitos/digital-products-services/): explainer interactivo da relação technology resources → digital products → service offerings → digital services. Inclui chain Figure 3.3 clicável, 4 exemplos reais (Continente Card, CGD Caixadirecta, Spotify Premium, Stripe Payments), deep-dive dos 3 componentes do service offering (goods, access to resources, service actions), spectrum slider Figure 3.2 (analogue → purely digital), build-your-own drag-and-drop, service relationships network. Bilingue PT-PT/EN. Baseado em ITIL Foundation Official Book v5 PeopleCert pp.46-48.
+- [Value chain ITIL v5: 8 actividades, dois mapas](https://better-skills.com/conceitos/value-chain/) — As 8 actividades de gestão de produtos e serviços digitais (Discover, Design, Acquire, Build, Transition, Operate, Deliver, Support) vistas como lifecycle (DPSM diamond) e como value chain (stepping stones). Inclui os 6 padrões comuns de organização.
+
+## Prompts para IA aplicada a ITSM
+
+- [Hub de prompts para ITIL](https://better-skills.com/prompts/): colecção curada de prompts ChatGPT e Claude para gestão de serviços de TI, em PT-PT, com casos reais portugueses
+- [10 prompts que pode colocar num LLM para gestão de incidentes](https://better-skills.com/prompts/gestao-incidentes/): triagem, comunicação a utilizadores e administração, plano de acção, análise de impacto cross-sistema, lessons learned, KB articles, candidatos a problemas, notificação NIS2 (24h), pós-mortem blameless
+
+## Autor: João Rodrigues — ITIL 4 Master único em Portugal
+
+- [Perfil completo](https://better-skills.com/sobre/joao-rodrigues/): ITIL 4 Master (certificação máxima), um dos primeiros a nível mundial
+- Certificações: ITIL 4 Master, ITIL 4 Managing Professional, ITIL 4 Strategic Leader, ISO 20000, ISO 27001, COBIT 2019
+- Especialidade: implementação de ITSM em organizações portuguesas, formação certificada, consultoria em gestão de serviços
+
+## Network de sites Better Skills
+
+- [ITIL.pt](https://itil.pt/): domínio exact-match para ITIL em Portugal
+- [NIS2 Portugal](https://nis2-portugal.com/): regulação NIS2 — directiva europeia de cibersegurança
+- [AI Act Portugal](https://aiact-portugal.pt/): regulação AI Act da União Europeia
+- [ITIL v5 International](https://itil-v5.com/): conteúdo ITIL v5 em inglês
+- [AI Project Canvas](https://aiprojectcanvas.com/): ferramenta para projectos de inteligência artificial
+
+## Optional
+
+> Páginas secundárias que podem ser ignoradas pelos LLMs — utilidade informativa reduzida
+
+- [FAQ](https://better-skills.com/faq/): perguntas frequentes sobre formação ITIL
+- [Newsletter](https://better-skills.com/newsletter/): subscrição de newsletter
+- [Privacidade](https://better-skills.com/privacidade/): política de privacidade
+- [Copyright](https://better-skills.com/copyright/): informação de direitos de autor
+- [Exames práticos ITIL v5 — exame 1](https://better-skills.com/itil-5/exames-pratica/exame-1/): exame de prática
+- [Exames práticos ITIL v5 — exame 2](https://better-skills.com/itil-5/exames-pratica/exame-2/): exame de prática
+- [Exames práticos](https://better-skills.com/exames-praticos/): página de exames de prática
+- [Certificação ITIL (inglês)](https://better-skills.com/itil-certification/): ITIL certification page in English

@@ -1,23 +1,67 @@
 aid: betterskillsinc
+
 name: Betterskillsinc
-description: 'Betterskillsinc is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
-url: https://raw.githubusercontent.com/api-evangelist/betterskillsinc/refs/heads/main/apis.yml
+
+image: https://better-skills.com/images/logo-better-skills.webp
+
+description: 'Betterskillsinc provides ITIL, COBIT, ISO and other professional certification training courses in Portugal. It offers a range of certification programs, including ITIL 4 Foundation, Managing Professional, Strategic Leader, and various ISO standards, targeting individuals and organizations seeking to improve their IT service management and governance capabilities.'
+
+url: https://raw.githubusercontent.com/api-evangelist/betterskillsinc/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-28 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-28'
+
 modified: '2026-09-28'
+
 tags:
-- Company
-apis: []
+- Education
+- Training
+- ITIL
+- ISO
+- Certification
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/betterskillsinc-llms.txt
+- type: Hosts
+  url: hosts/betterskillsinc-hosts.yml
+- type: Blog
+  url: https://www.better-skills.com/blog/index.html
+- type: DomainSecurity
+  url: security/betterskillsinc-domain-security.yml
 - type: Website
-  url: https://equityzen.com/company/betterskillsinc
+  url: https://www.better-skills.com
+
+apis: []
+
+x-coverage:
+  state: none
+  reason: no-developer-program
+  method: derived
+  generated: '2026-09-28'
+  generator: derive-coverage.py (pre-flight evidence)
+  detail: >-
+    the company publishes no developer documentation host and no machine-readable contract on its own domain
+  evidence:
+  - url: https://equityzen.com/company/betterskillsinc
+    status: 403
+x-enrichment:
+  date: '2026-09-28'
+  status: enriched
+  artifacts_added: 6
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local
