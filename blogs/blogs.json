@@ -1,0 +1,14 @@
+{
+  "repo": "betterskillsinc",
+  "feeds": [
+    {
+      "source": "https://www.better-skills.com/blog/index.html",
+      "feed_url": "https://www.better-skills.com/blog/index.html",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
